@@ -4,7 +4,7 @@ Description
 This tool allows changing the visibility of the selected services from a server.
 
 Environment requirements
-The tool is developped to run under Arcgis 10.2 (Python2.7)
+The tool is developped to run under Arcgis 10.3.1 (Python2.7)
 The user that executes the tool or/and the user from ArcGIS Server that uses the geoprocessing service, should be able to access to each network path where the service’s sources are placed in order to copy them. 
 
 Installation
